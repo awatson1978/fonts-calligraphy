@@ -1,7 +1,7 @@
 @font-face
 {
     font-family: AlexBrush;
-    src: url('/packages/fonts-calligraphy/AlexBrush-Regular.ttf');
+    src: url('/packages/fonts-calligraphy/fonts/AlexBrush-Regular.ttf');
 }
 .alexbrush{
     font-family: AlexBrush;
