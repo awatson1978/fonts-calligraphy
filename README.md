@@ -1,4 +1,6 @@
-**fonts-calligraphy** is a Meteorite package for adding calligraphy fonts to Meteor apps.  [![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)
+**fonts-calligraphy** is a Meteorite package for adding calligraphy fonts to Meteor apps.  
+
+
 
 
 ------------------------
@@ -37,3 +39,7 @@ alexbrush
 These fonts were downloaded from various free font websites.  While obstensibly free, if you wind up using one in your website, you really ought to track down the author and donate to them.
 
 http://www.fontsquirrel.com/fonts/alex-brush
+
+------------------------
+Found this package to be useful?  Consider tipping the package maintainer for their time!  
+[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
