@@ -1,5 +1,4 @@
-**fonts-calligraphy** is a Meteorite package for adding calligraphy fonts to Meteor apps.  
-Support this! [![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)
+**fonts-calligraphy** is a Meteorite package for adding calligraphy fonts to Meteor apps.  [![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)
 
 
 ------------------------
