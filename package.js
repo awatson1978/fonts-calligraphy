@@ -1,6 +1,6 @@
 Package.describe({
     summary: 'Meteorite package for adding various calligraphy fonts to Meteor apps (including cursive fonts).',
-    version: '1.0.0',
+    version: '1.0.1',
     name: 'awatson1978:fonts-calligraphy',
     git: 'http://github.com/awatson1978/fonts-calligraphy.git'
 });
